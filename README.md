@@ -9,4 +9,4 @@ These projects were completed for Practicum's Data Scientist professional traini
 
 | Nombre del proyecto | Descripción | Librerías usadas| 
 | :---------------------- | :---------------------- | :---------------------- |
-| Trips| Se determina si la duración promedio de los viajes desde el Loop hasta el Aeropuerto Internacional O'Hare cambia los sábados lluvioso | *pandas*, *scipy*, *numpy*, *datetime*, *matplotlib.pyplot*, scipy.stats*|
+| Trips| Se determina si la duración promedio de los viajes desde el Loop hasta el Aeropuerto Internacional O'Hare cambia los sábados lluvioso | *pandas*, *scipy*, *numpy*, *datetime*, *matplotlib.pyplot*, *scipy.stats*|
